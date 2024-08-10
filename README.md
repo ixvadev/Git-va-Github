@@ -1,3 +1,11 @@
+<div align="center">
+<img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" width="140">
+<img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/github-512.png" width="140">
+
+# GIT+GITHUB
+</div>
+
+
 # Git va GitHub bilan ishlash
 
 ## Git nima?
